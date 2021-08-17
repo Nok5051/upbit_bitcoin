@@ -1,0 +1,21 @@
+https://dacon.io/codeshare/2596?page=1&dtype=recent&s_id=0  
+주택 vs 땅 vs 주식 vs 코인. 당신의 선택은?
+https://diplabs.tistory.com/28    
+캔들스틱 
+https://jsp-dev.tistory.com/138 
+코인간 상관관계 분석
+https://byeongkijeong.github.io/ARIMA-with-Python/   
+비트코인 시계열 1 
+https://jihyun22.github.io/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/time-series-01/  
+ 비트코인 시계열 2
+https://unfinishedgod.netlify.app/2021/04/19/python-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EC%A3%BC%EA%B0%80-%EC%98%88%EC%B8%A1-study/   
+비트코인 시계열 3  
+https://superhky.tistory.com/154     
+일일 손익률 
+
+https://dacon.io/competitions/official/235618/codeshare/1529 
+그래프 참고
+
+(관련기사) 
+https://www.ajunews.com/view/20201204131259690 
+비트코인 매매때 환율을 봐라 
